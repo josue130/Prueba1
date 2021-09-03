@@ -1,0 +1,8 @@
+tec\bd\Main.class
+tec\bd\StarWars\StarsWarsService.class
+tec\bd\Commands\PeopleCommand.class
+tec\bd\Commands\MainCommand.class
+tec\bd\Commands\PlanetCommand.class
+tec\bd\StarWars\People.class
+tec\bd\StarWars\Planet.class
+tec\bd\StarWars\StarWarsApiResource.class
